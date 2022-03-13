@@ -1,0 +1,23 @@
+#percabangan if
+nila = 50
+if (nila >= 80) :
+	print("nilai A")
+#percabangan if else
+nilai = 60
+if (nilai >= 60) :
+	print("lulus")
+else :
+	print("tidak lulus")
+#percabangan elif
+
+umur = 22
+if (umur >17 and umur <20):
+	print("sudah beranjak dewasa")
+elif(umur >20 and umur <50):
+	print("masa masa emas")
+elif (umur >50 and umur <55):
+	print("masa paru baya")
+elif(umur  >=  55):
+	print("masa manula")
+else :
+	print("masih dibawa umur")
